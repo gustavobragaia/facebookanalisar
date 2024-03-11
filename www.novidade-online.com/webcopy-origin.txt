@@ -1,0 +1,204 @@
+Uri: https://cdn.converteai.net/15bd210f-bcbb-4fcb-850f-dffef3936860/64c12f7e72de0900084a750a/main.m3u8
+File Name: C:\Users\gusta\OneDrive\Documentos\SitesClonados\facebook\www.novidade-online.com\15bd210f-bcbb-4fcb-850f-dffef3936860\64c12f7e72de0900084a750a\main.m3u8
+Content Type: application/x-mpegurl
+
+Uri: https://cdn.converteai.net/lib/js/smartplayer/v1/smartplayer.min.js
+File Name: C:\Users\gusta\OneDrive\Documentos\SitesClonados\facebook\www.novidade-online.com\lib\js\smartplayer\v1\smartplayer.min.js
+Content Type: text/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&family=Roboto:wght@300;400;500;600;700;800&family=Montserrat:wght@300;400;500;600;700;800&display=swap
+File Name: C:\Users\gusta\OneDrive\Documentos\SitesClonados\facebook\www.novidade-online.com\css2-6
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+File Name: C:\Users\gusta\OneDrive\Documentos\SitesClonados\facebook\www.novidade-online.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew--6.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\Users\gusta\OneDrive\Documentos\SitesClonados\facebook\www.novidade-online.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew--6.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+File Name: C:\Users\gusta\OneDrive\Documentos\SitesClonados\facebook\www.novidade-online.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew--6.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: C:\Users\gusta\OneDrive\Documentos\SitesClonados\facebook\www.novidade-online.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w--6.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: C:\Users\gusta\OneDrive\Documentos\SitesClonados\facebook\www.novidade-online.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w--6.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+File Name: C:\Users\gusta\OneDrive\Documentos\SitesClonados\facebook\www.novidade-online.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w--6.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Users\gusta\OneDrive\Documentos\SitesClonados\facebook\www.novidade-online.com\s\poppins\v20\pxiByp8kv8JHgFVrLCz7V1s-6.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4V1s.ttf
+File Name: C:\Users\gusta\OneDrive\Documentos\SitesClonados\facebook\www.novidade-online.com\s\poppins\v20\pxiByp8kv8JHgFVrLDD4V1s-6.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8V1s.ttf
+File Name: C:\Users\gusta\OneDrive\Documentos\SitesClonados\facebook\www.novidade-online.com\s\poppins\v20\pxiByp8kv8JHgFVrLDz8V1s-6.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Users\gusta\OneDrive\Documentos\SitesClonados\facebook\www.novidade-online.com\s\poppins\v20\pxiByp8kv8JHgFVrLEj6V1s-6.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Users\gusta\OneDrive\Documentos\SitesClonados\facebook\www.novidade-online.com\s\poppins\v20\pxiByp8kv8JHgFVrLGT9V1s-6.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Users\gusta\OneDrive\Documentos\SitesClonados\facebook\www.novidade-online.com\s\poppins\v20\pxiEyp8kv8JHgFVrFJA-6.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9vAw.ttf
+File Name: C:\Users\gusta\OneDrive\Documentos\SitesClonados\facebook\www.novidade-online.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9vAw-6.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5vAw.ttf
+File Name: C:\Users\gusta\OneDrive\Documentos\SitesClonados\facebook\www.novidade-online.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5vAw-6.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlvAw.ttf
+File Name: C:\Users\gusta\OneDrive\Documentos\SitesClonados\facebook\www.novidade-online.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlvAw-6.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Me5Q.ttf
+File Name: C:\Users\gusta\OneDrive\Documentos\SitesClonados\facebook\www.novidade-online.com\s\roboto\v30\KFOmCnqEu92Fr1Me5Q-6.ttf
+Content Type: font/ttf
+
+Uri: https://images.converteai.net/15bd210f-bcbb-4fcb-850f-dffef3936860/players/64c12fba72de0900084a750b/thumbnail.jpg
+File Name: C:\Users\gusta\OneDrive\Documentos\SitesClonados\facebook\www.novidade-online.com\15bd210f-bcbb-4fcb-850f-dffef3936860\players\64c12fba72de0900084a750b\thumbnail.jpg
+Content Type: image/jpeg
+
+Uri: https://images.converteai.net/15bd210f-bcbb-4fcb-850f-dffef3936860/players/65c2c01e9c21ce0008b1ac1e/thumbnail.jpg
+File Name: C:\Users\gusta\OneDrive\Documentos\SitesClonados\facebook\www.novidade-online.com\15bd210f-bcbb-4fcb-850f-dffef3936860\players\65c2c01e9c21ce0008b1ac1e\thumbnail.jpg
+Content Type: image/jpeg
+
+Uri: https://media.atomicatpages.com/p/h.png
+File Name: C:\Users\gusta\OneDrive\Documentos\SitesClonados\facebook\www.novidade-online.com\p\h.png
+Content Type: image/webp
+
+Uri: https://media.atomicatpages.com/p/l.png
+File Name: C:\Users\gusta\OneDrive\Documentos\SitesClonados\facebook\www.novidade-online.com\p\l.png
+Content Type: image/webp
+
+Uri: https://media.atomicatpages.com/u/CejZq846ZpZxvnCCzBk1WzYMCm12/l/JbNPqo3469718.webp
+File Name: C:\Users\gusta\OneDrive\Documentos\SitesClonados\facebook\www.novidade-online.com\u\CejZq846ZpZxvnCCzBk1WzYMCm12\l\JbNPqo3469718.webp
+Content Type: image/webp
+
+Uri: https://media.atomicatpages.com/u/CejZq846ZpZxvnCCzBk1WzYMCm12/l/LBaYcL6947086.png
+File Name: C:\Users\gusta\OneDrive\Documentos\SitesClonados\facebook\www.novidade-online.com\u\CejZq846ZpZxvnCCzBk1WzYMCm12\l\LBaYcL6947086.png
+Content Type: image/webp
+
+Uri: https://media.atomicatpages.com/u/CejZq846ZpZxvnCCzBk1WzYMCm12/l/rrypCk4647736.jpeg
+File Name: C:\Users\gusta\OneDrive\Documentos\SitesClonados\facebook\www.novidade-online.com\u\CejZq846ZpZxvnCCzBk1WzYMCm12\l\rrypCk4647736.jpeg
+Content Type: image/webp
+
+Uri: https://media.atomicatpages.com/u/CejZq846ZpZxvnCCzBk1WzYMCm12/l/tCaDhz3710558.webp
+File Name: C:\Users\gusta\OneDrive\Documentos\SitesClonados\facebook\www.novidade-online.com\u\CejZq846ZpZxvnCCzBk1WzYMCm12\l\tCaDhz3710558.webp
+Content Type: image/webp
+
+Uri: https://media.atomicatpages.com/u/CejZq846ZpZxvnCCzBk1WzYMCm12/l/XAoCvc5202946.jpeg
+File Name: C:\Users\gusta\OneDrive\Documentos\SitesClonados\facebook\www.novidade-online.com\u\CejZq846ZpZxvnCCzBk1WzYMCm12\l\XAoCvc5202946.jpeg
+Content Type: image/webp
+
+Uri: https://media.atomicatpages.com/u/CejZq846ZpZxvnCCzBk1WzYMCm12/l/zRsWYF4897280.jpeg
+File Name: C:\Users\gusta\OneDrive\Documentos\SitesClonados\facebook\www.novidade-online.com\u\CejZq846ZpZxvnCCzBk1WzYMCm12\l\zRsWYF4897280.jpeg
+Content Type: image/webp
+
+Uri: https://scripts.converteai.net/15bd210f-bcbb-4fcb-850f-dffef3936860/players/64c12fba72de0900084a750b/player.js
+File Name: C:\Users\gusta\OneDrive\Documentos\SitesClonados\facebook\www.novidade-online.com\15bd210f-bcbb-4fcb-850f-dffef3936860\players\64c12fba72de0900084a750b\player.js
+Content Type: text/javascript
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317
+File Name: C:\Users\gusta\OneDrive\Documentos\SitesClonados\facebook\www.novidade-online.com\beacon.min.js\v84a3a4012de94ce1a686ba8c167c359c1696973893317-6
+Content Type: text/javascript
+
+Uri: https://www.facebook.com/tr?id=1094256735033107&ev=PageView&noscript=1
+File Name: C:\Users\gusta\OneDrive\Documentos\SitesClonados\facebook\www.novidade-online.com\tr-1
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=1095344811643059&ev=PageView&noscript=1
+File Name: C:\Users\gusta\OneDrive\Documentos\SitesClonados\facebook\www.novidade-online.com\tr-8
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=1276672109662914&ev=PageView&noscript=1
+File Name: C:\Users\gusta\OneDrive\Documentos\SitesClonados\facebook\www.novidade-online.com\tr-12
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=1298962040979855&ev=PageView&noscript=1
+File Name: C:\Users\gusta\OneDrive\Documentos\SitesClonados\facebook\www.novidade-online.com\tr-13
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=1330003061010171&ev=PageView&noscript=1
+File Name: C:\Users\gusta\OneDrive\Documentos\SitesClonados\facebook\www.novidade-online.com\tr-2
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=1363509924544746&ev=PageView&noscript=1
+File Name: C:\Users\gusta\OneDrive\Documentos\SitesClonados\facebook\www.novidade-online.com\tr-11
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=1398957207681583&ev=PageView&noscript=1
+File Name: C:\Users\gusta\OneDrive\Documentos\SitesClonados\facebook\www.novidade-online.com\tr-9
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=2067751196914378&ev=PageView&noscript=1
+File Name: C:\Users\gusta\OneDrive\Documentos\SitesClonados\facebook\www.novidade-online.com\tr
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=297828936281953&ev=PageView&noscript=1
+File Name: C:\Users\gusta\OneDrive\Documentos\SitesClonados\facebook\www.novidade-online.com\tr-14
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=404494655465368&ev=PageView&noscript=1
+File Name: C:\Users\gusta\OneDrive\Documentos\SitesClonados\facebook\www.novidade-online.com\tr-6
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=613571910938110&ev=PageView&noscript=1
+File Name: C:\Users\gusta\OneDrive\Documentos\SitesClonados\facebook\www.novidade-online.com\tr-16
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=6512808542136684&ev=PageView&noscript=1
+File Name: C:\Users\gusta\OneDrive\Documentos\SitesClonados\facebook\www.novidade-online.com\tr-15
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=716130057017163&ev=PageView&noscript=1
+File Name: C:\Users\gusta\OneDrive\Documentos\SitesClonados\facebook\www.novidade-online.com\tr-17
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=726313052935422&ev=PageView&noscript=1
+File Name: C:\Users\gusta\OneDrive\Documentos\SitesClonados\facebook\www.novidade-online.com\tr-7
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=735183157959130&ev=PageView&noscript=1
+File Name: C:\Users\gusta\OneDrive\Documentos\SitesClonados\facebook\www.novidade-online.com\tr-10
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=776041611060044&ev=PageView&noscript=1
+File Name: C:\Users\gusta\OneDrive\Documentos\SitesClonados\facebook\www.novidade-online.com\tr-4
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=925693775941923&ev=PageView&noscript=1
+File Name: C:\Users\gusta\OneDrive\Documentos\SitesClonados\facebook\www.novidade-online.com\tr-3
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=941063691056184&ev=PageView&noscript=1
+File Name: C:\Users\gusta\OneDrive\Documentos\SitesClonados\facebook\www.novidade-online.com\tr-5
+Content Type: text/plain
+
+Uri: https://www.novidade-online.com/pv/
+File Name: C:\Users\gusta\OneDrive\Documentos\SitesClonados\facebook\www.novidade-online.com\pv\index.htm
+Content Type: text/html
+
+Uri: https://www.novidade-online.com/pv/js/JmDYxS9812358.js
+File Name: C:\Users\gusta\OneDrive\Documentos\SitesClonados\facebook\www.novidade-online.com\pv\js\JmDYxS9812358.js
+Content Type: application/javascript
+
